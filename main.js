@@ -1,0 +1,1 @@
+functionSecretToEverything()  {alert('42');}
